@@ -225,7 +225,7 @@
         ]
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Fenwick Island State Park",
         "county": "Sussex",
         "address": "DE-1, Fenwick Island, DE 19944",
@@ -259,7 +259,7 @@
         ]
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "First State Heritage Park",
         "county": "Kent",
         "address": "102 S State St, Dover, DE 19901",
@@ -281,7 +281,7 @@
         ]
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Fort Delaware State Park",
         "county": "Kent",
         "address": "45 Clinton St, Delaware City, DE 19706",
