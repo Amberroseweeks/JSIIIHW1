@@ -1,8 +1,8 @@
 [
     {
         "id": 1,
-        "name": "alapocas run state park",
-        "county": "new castle",
+        "name": "Alapocas Run State Park",
+        "county": "New Castle",
         "address": "1914 w park dr, wilmington, DE 19803",
         "location": [39.7764093, -75.5452632],
         "picture": "https://www.destateparks.com/wwwroot/images/parks/alapocas/AlapocasHERO.jpg",
@@ -24,9 +24,9 @@
     {
         "id": 2,
         "name": "Auburn Valley State Park",
-        "county": "new castle",
+        "county": "New Castle",
         "address": "630 Benge Rd, Hockessin, DE 19707",
-        "location": [39.81868008436779, -75.67861017732277],
+        "location": [39.808998980742636, -75.67952893065154],
         "picture": "https://www.destateparks.com/wwwroot/images/parks/auburnValley/AuburnValleyHero.jpg",
         "activities": [
             {
@@ -52,7 +52,7 @@
         "name": "Brandywine Creek State Park",
         "county": "New Castle",
         "address": "41 Adams Dam Rd Wilmington, DE",
-        "location": [39.80737292788198, -75.5727788823647],
+        "location": [39.80908231379846, -75.57359469324132],
         "picture": "https://www.destateparks.com/wwwroot/images/parks/brandywineCreek/BrandywineCreek-HERO.jpg",
         "activities": [
             {
@@ -95,7 +95,7 @@
         "name": "Bellevue State Park",
         "county": "New Castle",
         "address": "800 Carr Rd Wilmington, DE 19809",
-        "location": [39.77689387198082, -75.49277904639335],
+        "location": [39.778096485806266, -75.4931868471555],
         "picture": "https://www.destateparks.com/wwwroot/images/parks/bellevue/Bellevue-HERO.jpg",
         "activities": [
                 {
@@ -129,7 +129,7 @@
         "name": "Cape Henlopen State Park",
         "county": "Sussex",
         "address": "15099 Cape Henlopen Dr, Lewes, DE 19958",
-        "location": [38.784302454650714, -75.09828693067753],
+        "location": [38.78499629483988, -75.09810456715735],
         "picture": "https://www.destateparks.com/wwwroot/images/parks/cape/CapeHenlopen-HERO.jpg",
         "activities": [
                 {
@@ -175,7 +175,7 @@
         "name": "Delaware Seashore State Park",
         "county": "Sussex",
         "address": "39415 Inlet Rd, Rehoboth Beach, DE 19971",
-        "location": [38.612985045565274, -75.07171708835344],
+        "location": [38.61365540127747, -75.07147035188225],
         "picture": "https://www.destateparks.com/wwwroot/images/parks/delSeashore/DelawareSeashore-HERO.jpg",
         "activities": [
                 {
@@ -229,7 +229,7 @@
         "name": "Fenwick Island State Park",
         "county": "Sussex",
         "address": "DE-1, Fenwick Island, DE 19944",
-        "location": [38.615606850050156, -75.06493011506451],
+        "location": [38.621828043973274, -75.06482519690888],
         "picture": "https://www.destateparks.com/wwwroot/images/parks/fenwick/Fenwick-Hero.jpg",
         "activities": [
                 {
@@ -263,7 +263,7 @@
         "name": "First State Heritage Park",
         "county": "Kent",
         "address": "102 S State St, Dover, DE 19901",
-        "location": [39.15978563604285, -75.52520689998175],
+        "location": [39.160484123944066, -75.5254966050983],
         "picture": "https://destateparks.com/wwwroot/images/parks/firstStateHeritage/FirstStateHeritagePark-Hero.jpg",
         "activities": [
                 {
@@ -285,7 +285,7 @@
         "name": "Fort Delaware State Park",
         "county": "New Castle",
         "address": "45 Clinton St, Delaware City, DE 19706",
-        "location": [39.57864936482754, -75.58739918832897],
+        "location": [39.57921136576668, -75.58732411286756],
         "picture": "https://www.destateparks.com/wwwroot/images/EssentialExp/FDSP/Fort-ExteriorEE.jpg",
         "activities": [
                 {
@@ -315,7 +315,7 @@
         "name": "Fort DuPont State Park",
         "county": "New Castle",
         "address": "Wilmington Ave, Delaware City, DE 19706",
-        "location": [39.570055347791744, -75.5856564174701],
+        "location": [39.570749741792234, -75.5856135282146],
         "picture": "https://www.destateparks.com/wwwroot/images/parks/fortDuPont/FortDuPont-HERO.jpg",
         "activities": [
                 {
@@ -337,7 +337,7 @@
         "name": "Fox Point State Park",
         "county": "New Castle",
         "address": "Wilmington Ave, Delaware City, DE 19706",
-        "location": [39.76265830859087, -75.5023569018169],
+        "location": [39.571047468364945, -75.58604268164973],
         "picture": "https://destateparks.com/wwwroot/images/parks/foxPoint/FoxPoint-HERO.jpg",
         "activities": [
                 {
@@ -355,7 +355,7 @@
         "name": "Holts Landing State Park",
         "county": "Sussex",
         "address": "39415 Inlet Rd., Rehoboth Beach, Dagsboro, DE 1993",
-        "location": [38.61834483790503, -75.07003722054878],
+        "location": [38.6381492404167, -75.08036405152586],
         "picture": "https://destateparks.com/wwwroot/images/parks/holtsLanding/Holts%20pier.jpg",
         "activities": [
                 {
@@ -389,7 +389,7 @@
         "name": "Killens Pond State Park",
         "county": "Sussex",
         "address": "5025 Killens Pond Rd, Felton, DE 19943",
-        "location": [38.98925179747407, -75.54561473067247],
+        "location": [38.989735160772014, -75.54573277447992],
         "picture": "https://destateparks.com/wwwroot/images/parks/killens/4KPSP.jpg",
         "activities": [
                 {
@@ -557,7 +557,7 @@
         "name": "Wilmington State Parks",
         "county": "New Castle",
         "address": "1021 W 18th St, Wilmington, DE 19802",
-        "location": [39.762100805037704, -75.55125368832434],
+        "location": [39.76256234720777, -75.55122152813637],
         "picture": "https://destateparks.com/wwwroot/images/EssentialExp/WSP/BrandywineRiverEE.jpg",
         "activities": [
                 {
