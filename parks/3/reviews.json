@@ -5,5 +5,13 @@
         "text": "Great park!",	      
         "stars": 5,	       
         "img": "https://www.destateparks.com/wwwroot/images/parks/alapocas/AlapocasHERO.jpg"
-    }	 
+    },
+        {	    
+        "id": 3,	     
+        "reviewid": "2",	       
+        "text": "It was an awesome day to enjoy the park. We will be back soon.",	      
+        "stars": 4,	       
+        "img": "https://dnrec.alpha.delaware.gov/wp-content/uploads/sites/2/2020/03/child-fisherman.jpg"
+    }
+    
 ]
